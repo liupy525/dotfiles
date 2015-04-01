@@ -1,0 +1,2 @@
+" ColorScheme
+colorscheme molokai

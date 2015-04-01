@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/liupy525/Github/liupy525/LeetCode-OJ'
+let g:netrw_dirhist_2='/Users/liupy525/Github/shadowsocks'
+let g:netrw_dirhist_3='/Users/liupy525/Github/shadowsocks/shadowsocks'
+let g:netrw_dirhist_4='/Users/liupy525/Github/shadowsocks'
+let g:netrw_dirhist_5='/Users/liupy525/Github/shadowsocks/shadowsocks'
+let g:netrw_dirhist_6='/Users/liupy525/Github/liupy525/LeetCode-OJ'
+let g:netrw_dirhist_7='/Users/liupy525/Github/liupy525/bottle'
+let g:netrw_dirhist_8='/System/Library/CoreServices/InternetSharing.bundle'
+let g:netrw_dirhist_9='/Users/liupy525/Github/liupy525/Trash/.git'

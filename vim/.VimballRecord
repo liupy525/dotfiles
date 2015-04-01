@@ -1,0 +1,2 @@
+supertab.vmb: call delete('/Users/liupy525/.vim/doc/supertab.txt')|call delete('/Users/liupy525/.vim/plugin/supertab.vim')
+zenburn.vba: call delete('/Users/liupy525/.vim/colors/zenburn.vim')
