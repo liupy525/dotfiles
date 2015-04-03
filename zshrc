@@ -88,6 +88,9 @@ alias lsa="ls -a"
 
 ######### User configuration
 
+# ssh to my own vps
+alias sshvps="ssh root@104.236.130.202"
+
 # rm to trash
 alias rm="$HOME/.rm-trash/rm.rb"
 
