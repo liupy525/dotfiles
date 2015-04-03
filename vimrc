@@ -198,5 +198,7 @@ set completeopt=longest,menu
 """"""""""""""""""""""""""""""""""
 "" 自定义快捷键
 """"""""""""""""""""""""""""""""""
-"":inoremap <C-l> <Right>
-"":inoremap <C-;> <ESC>
+:imap <C-h> <Left>
+:imap <C-j> <Down>
+:imap <C-k> <Up>
+:imap <C-l> <Right>
